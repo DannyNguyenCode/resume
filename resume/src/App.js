@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import TopBanner from "./topBanner/TopBanner";
-import SidePanel from "./headings/sidePanel/SidePanel";
+import SidePanel from "./sidePanel/SidePanel";
 import Container from "../node_modules/react-bootstrap/Container";
 import Row from "../node_modules/react-bootstrap/Row";
 import Accordion from "../node_modules/react-bootstrap/Accordion";
